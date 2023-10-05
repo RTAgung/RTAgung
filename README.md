@@ -7,19 +7,6 @@ I will show you my favorite projects.
 | No   | Project Name    |
 |-----:|-----------------|
 |     1| [News App](https://github.com/RTAgung/RTAgung#news-app)        |
-|     2| [Story App](https://github.com/RTAgung/RTAgung#story-app)       |
-|     3| [Nuberjam](https://github.com/RTAgung/RTAgung#nuberjam)        |
-|     4| [Github User App](https://github.com/RTAgung/RTAgung#github-user-app) |
-
-### News App
-
-
-### Story App
-
-
-### Nuberjam
-
-
-### Github User App
-
-
+|     2| [Story App](https://github.com/RTAgung/Dicoding-Android-Intermediate/tree/master/24-Submission2)       |
+|     3| [Nuberjam](https://github.com/Nub-en-Nuber/NuberJam-Android)        |
+|     4| [Github User App](https://github.com/RTAgung/Dicoding-Android-Fundamental/tree/master/Submission2) |
