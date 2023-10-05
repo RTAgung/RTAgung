@@ -1,16 +1,14 @@
-### Hi there 👋
-### I'm Rama Tri Agung
-<!--
-**RTAgung/RTAgung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Rama Tri Agung 👋
+I am a fresh graduate of the Computer Science Bachelor's program. I am very passionate about Android Development. I am studying and building Android projects from several courses.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects 📱
+I will show you my favorite projects.
+
+| No   | Project Name    |
+|-----:|-----------------|
+|     1| News App        |
+|     2| Story App       |
+|     3| Nuberjam        |
+|     4| Github User App |
